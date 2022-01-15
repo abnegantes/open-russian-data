@@ -14,7 +14,7 @@ English translation will be available later. You are welcome here too.
 1) [Репозиторий открытых данных России Ивана Бегтина, специалиста по дата-журналистике](https://github.com/infoculture/awesome-opendata-rus)
 2) [Достаточно известный репозиторий с иностранными источниками](https://github.com/awesomedata/awesome-public-datasets)
 3) [Не совсем репозиторий, но Trello с датой сообщества дата-журналистов](https://trello.com/b/wpWtb0a9/данные)
-4) [Человек постарался и сделал ТГ-канал с Российской датой](https://t.me/dataset_ru), где очень круто и метсами больше всего, чем здесь.
+4) [Человек постарался и сделал ТГ-канал с Российской датой](https://t.me/dataset_ru), где очень круто и местами больше всего, чем здесь.
 5) [Хабр пост про данные для проектов по городской среде](https://habr.com/ru/post/584598/)
 6) [Известная подборка иностранных данных](https://github.com/awesomedata/awesome-public-datasets)
 
