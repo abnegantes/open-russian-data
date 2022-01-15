@@ -1,5 +1,5 @@
 # open-russian-data
-Подборка ресурсов с открытыми данными, ориентированная под использования в странах СНГ, или если вы делаете продукт и исследование про страны СНГ. Данные разбиты по темам и подходят как для дата-журналистики, так и для Data Science. Автор старался собирать данные, которые не нуждаются в большой предобработке (парсинг, оичстка и т.п.). Если у вас есть вопросы и предложения, то пишите в ТГ:@Abnegantes. Давайте собирать больше открытой и хорошей даты.
+Подборка ресурсов с открытыми данными, ориентированная под использования в странах СНГ, или если вы делаете продукт и исследование про страны СНГ. Данные разбиты по темам и подходят как для дата-журналистики, так и для Data Science. Автор старался собирать данные, которые не нуждаются в большой предобработке (парсинг, очистка и т.п.). Если у вас есть вопросы и предложения, то пишите в ТГ:@Abnegantes. Давайте собирать больше открытой и хорошей даты.
 
 English translation will be available later. You are welcome here too.
 
@@ -22,7 +22,7 @@ English translation will be available later. You are welcome here too.
 -----------------------------------
 1) [Государственная статистика России ЕМИСС](https://www.fedstat.ru/)
 2) [Государственная статистика России Росстат](https://rosstat.gov.ru/statistic)
-3) [Витрина Росстата](https://showdata.gks.ru/finder/) во многом дублирует то, что указано выше. Но на витрине есть инетерсные детализации и дополнительные данные. Например, можно узнать зарпалы по регонам в частных стоматологических клинниках, чего нет в источниках выше
+3) [Витрина Росстата](https://showdata.gks.ru/finder/) во многом дублирует то, что указано выше. Но на витрине есть интересные детализации и дополнительные данные. Например, можно узнать зарплаты по регонам в частных стоматологических клиниках, чего нет в источниках выше
 4) [Национальный цифровой архив России](https://ruarxive.org/)
 5) [База данных о некоммерческих организациях в России](https://openngo.ru/)
 6) [Проект "Информационная культура"](https://www.infoculture.ru/projects/) содержит множество ссылок на подпроекты с данными. Например, там есть каталог каталогов данных 
@@ -32,14 +32,14 @@ English translation will be available later. You are welcome here too.
 10) [Открытые данные Министерства культуры](https://opendata.mkrf.ru/opendata/)
 11) [Данные о земельных сделках Росреестра](https://rosreestr.gov.ru/)
 12) [Данные Федеральной Налоговой Службы](https://data.nalog.ru/rn77/opendata/) очень удобны и часто не уступают платным агрегаторам данных
-13) [Открыте геоданные по детским домам](https://gis-lab.info/qa/geodetdom.html)
+13) [Открытые геоданные по детским домам](https://gis-lab.info/qa/geodetdom.html)
 14) [Публичная кадастровая карта](https://pkk.rosreestr.ru/)
 15) [Всякая статистика по выборам в России](https://t.me/RUElectionData)
 16) [Каталог Новостроек от Минстроя России](https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&objectIds=43493%2C1817%2C43383), но тут есть не только новостройки. Посмотрите на вкладку "Сервисы"
-17) [Данные Федерального агенства железнодорожного транспорта](https://rlw.gov.ru/opendata)
-18) [Визуализация самых разных данных по всй России](https://russia.duck.consulting/)
-19) [Неофициальный хаб по дейтельности правоохранительных органов](https://www.openpolice.ru/data/)
-20) [Отерытые данные федерального агенства по рыболовству](https://fish.gov.ru/otkrytoe-agentstvo/otkrytye-dannye/)
+17) [Данные Федерального агентства железнодорожного транспорта](https://rlw.gov.ru/opendata)
+18) [Визуализация самых разных данных по всей России](https://russia.duck.consulting/)
+19) [Неофициальный хаб по деятельности правоохранительных органов](https://www.openpolice.ru/data/)
+20) [Оте=крытые данные федерального агентства по рыболовству](https://fish.gov.ru/otkrytoe-agentstvo/otkrytye-dannye/)
 
 Региональные данные:
 -----------------------------------
@@ -57,7 +57,7 @@ English translation will be available later. You are welcome here too.
 10) [Открытые данные Якутии](https://www.sakha.gov.ru/opendata/front)
 11) [Сведения о земельных участках Республики Дагестан](https://estate-rd.ru/svedeniya-o-zemelnykh-uchastkakh)
 12) [Открытые данные Улан-Удэ](https://ulan-ude-eg.ru/opendata/)
-13) [Открытые данные Екатиринбурга](http://data.ekburg.ru/)
+13) [Открытые данные Екатеринбурга](http://data.ekburg.ru/)
 14) [Открытые данные Свердловской области](http://open.midural.ru/opendata/)
 15) [Пространственные данные Якутии](https://sakhagis.ru/)
 16) [Открытые данные Тульской области](https://opendata71.ru/)
@@ -71,7 +71,7 @@ English translation will be available later. You are welcome here too.
 2) [Открытый банк задания ОГЭ](https://fipi.ru/oge/otkrytyy-bank-zadaniy-oge), а ЕГЭ на этом же портале в соседней вкладке
 3) [Статистика Яндекса по запросам](https://wordstat.yandex.ru/)
 4) [Исследования Яндекса (не датасеты!)](https://yandex.ru/company/researches/?type=researches), чтобы посмотреть визуализации и найти идеи
-5) [Открытые данные ВШЭ](https://github.com/infoculture/datatasks/issues/32), передаю привет автору! Я знаю, что вы это увидете. Волны уважения вам. Посмотрите все его репозитории, читатели.
+5) [Открытые данные ВШЭ](https://github.com/infoculture/datatasks/issues/32), посмотрите все репозитории автора.
 6) [Открытые данные Тинькофф](https://www.tinkoff.ru/data/), где не только про деньги.
 7) [Экономическая статистика и открытые данные Сбера](https://sberindex.ru/ru)
 8) [Открытые данные Москвоской биржи](https://www.moex.com/ru/orders)
@@ -91,7 +91,7 @@ English translation will be available later. You are welcome here too.
 8)  [World population data](https://interactives.prb.org/2021-wpds/)
 9)  [Открытые данные ООН](https://peacekeeping.un.org/en/open-data-portal)
 10)  [Открытые данные ВОЗ](https://www.who.int/data/collections)
-11)  [Ну и конечно же Google datasets](https://datasetsearch.research.google.com/), где можно сделать запрос и попробовать найти инетерсные данные
+11)  [Ну и конечно же Google datasets](https://datasetsearch.research.google.com/), где можно сделать запрос и попробовать найти интересные данные
 12)  [Данные NASA](https://data.nasa.gov/)
 
 Удачной работы! Пишите пожелания и дополнения на ТГ в шапке.
