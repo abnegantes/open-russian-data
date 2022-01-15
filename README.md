@@ -16,7 +16,7 @@ English translation will be available later. You are welcome here too.
 3) [Не совсем репозиторий, но Trello с датой сообщества дата-журналистов](https://trello.com/b/wpWtb0a9/данные)
 4) [Человек постарался и сделал ТГ-канал с Российской датой](https://t.me/dataset_ru), где очень круто и метсами больше всего, чем здесь.
 5) [Хабр пост про данные для проектов по городской среде](https://habr.com/ru/post/584598/)
-6) [Известная подборка иностранных данных](GitHub - awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.)
+6) [Известная подборка иностранных данных](GitHub - awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets)
 
 Всероссийские данные:
 -----------------------------------
