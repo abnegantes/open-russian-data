@@ -77,6 +77,7 @@ English translation will be available later. You are welcome here too.
 8) [Открытые данные Москвоской биржи](https://www.moex.com/ru/orders)
 9) [Открытые данные по русской литературе и фольклору](https://dataverse.pushdom.ru/)
 10) [Портал открытых данных по автомобильным номерам](https://avtocod.ru/)
+11) [Геопортал Роскосмоса](https://gptl.ru/)
 
 Чуть-чуть мировых данных (про СНГ тут тоже есть!):
 -----------------------------------
@@ -91,5 +92,6 @@ English translation will be available later. You are welcome here too.
 9)  [Открытые данные ООН](https://peacekeeping.un.org/en/open-data-portal)
 10)  [Открытые данные ВОЗ](https://www.who.int/data/collections)
 11)  [Ну и конечно же Google datasets](https://datasetsearch.research.google.com/), где можно сделать запрос и попробовать найти инетерсные данные
+12)  [Данные NASA](https://data.nasa.gov/)
 
 Удачной работы! Пишите пожелания и дополнения на ТГ в шапке.
