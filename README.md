@@ -61,7 +61,7 @@ English translation will be available later. You are welcome here too.
 14) [Открытые данные Свердловской области](http://open.midural.ru/opendata/)
 15) [Пространственные данные Якутии](https://sakhagis.ru/)
 16) [Открытые данные Тульской области](https://opendata71.ru/)
-17) [Поратл открытых данных Москвы](https://data.mos.ru/)
+17) [Портал открытых данных Москвы](https://data.mos.ru/)
 18) [Открытые данные Ульяновской области](http://data.ulgov.ru/)
 19) [Открытые данные Краснодарского Края](https://opendata.krasnodar.ru/)
 
