@@ -39,7 +39,7 @@ English translation will be available later. You are welcome here too.
 17) [Данные Федерального агентства железнодорожного транспорта](https://rlw.gov.ru/opendata)
 18) [Визуализация самых разных данных по всей России](https://russia.duck.consulting/)
 19) [Неофициальный хаб по деятельности правоохранительных органов](https://www.openpolice.ru/data/)
-20) [Оте=крытые данные федерального агентства по рыболовству](https://fish.gov.ru/otkrytoe-agentstvo/otkrytye-dannye/)
+20) [Открытые данные федерального агентства по рыболовству](https://fish.gov.ru/otkrytoe-agentstvo/otkrytye-dannye/)
 
 Региональные данные:
 -----------------------------------
